@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HariVengana
+- 👋 Hi, I’m @HariV
 - 👀 I’m interested in Python data structures
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
